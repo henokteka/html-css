@@ -10,3 +10,7 @@ p{
 li{
   background-color: Red;
 }
+span{
+  background-color: white;
+  font-size: normal;
+}
